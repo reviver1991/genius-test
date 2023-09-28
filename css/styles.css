@@ -4,8 +4,10 @@
   --color-primary-dark: #31261a;
   --color-primary-light: #f4f4ea;
 }
+
 /* base */
 body {
+  /* color: var(--color-primary-dark); */
   background-color: grey;
 }
 
@@ -62,5 +64,5 @@ a:hover {
 }
 /* font chef */
 .shefs-fontcolor {
-  color: var(--color-primary-dark);
+  color: var(--color-brand-dark);
 }
